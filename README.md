@@ -9,5 +9,5 @@ By default, the [`devcontainers-suede/common.json`](./devcontainers-suede/common
 If you want to refresh or change that configuration, run:
 
 ```bash
-devcontainers-suede/install.sh --force
+./devcontainers-suede/install.sh --force
 ```
