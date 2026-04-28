@@ -11,3 +11,7 @@ If you want to refresh or change that configuration, run:
 ```bash
 ./devcontainers-suede/install.sh --force
 ```
+
+## Upgrading
+
+To get the latest devcontainer configurations from [devcontainers-suede](https://github.com/pmalacho-mit/devcontainers-suede), simply run `git subrepo pull devcontainers-suede` (assuming you have [git subrepo](https://github.com/ingydotnet/git-subrepo) installed, which will be if you use any of the provided devcontainer configs). 
