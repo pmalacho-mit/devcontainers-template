@@ -1,6 +1,6 @@
 # devcontainers-template
 
-This repository is intended to be used as a GitHub template for projects that rely on Dev Containers.
+This repository is intended to be used as a [GitHub template](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template) for projects that rely on [Dev Containers](https://containers.dev/).
 
 It includes the [devcontainers-suede](https://github.com/pmalacho-mit/devcontainers-suede) utility pre-installed so new repositories can quickly adopt a consistent, ready-to-use devcontainer setup.
 
